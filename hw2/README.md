@@ -1,7 +1,7 @@
-#Sydnee Boothby CPTS 451
-#learning sql, converting ER model
+## Sydnee Boothby CPTS 451 
+learning sql, converting ER model
 
-#instructions for running
+### commands for running
 
 CREATE DATABASE hw2;
 sudo -u postgres psql 
